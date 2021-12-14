@@ -1,7 +1,7 @@
 # Hello There!
 I'm Daniel, Started my journey with computer since I was 10.
 
-I'm intrested in:
+Some of the things that I'm really intrested are:
 - programming 👨‍💻 
 - tech stuffs 💻📡📱🖥 
 - and working out (yes, I exercise. 🦾😎)
