@@ -4,7 +4,7 @@ I'm Daniel, Started my journey with computer since I was 10.
 Some of the things that I'm really intrested are:
 - Programming 👨‍💻 
 - Tech stuffs 💻📡📱🖥 
-- Working out (yes, I exercise. 🦾😎)
+- Working out (yes, I exercise. 🦾)
 
 I'm currently expertising full stack development 🚀
 
