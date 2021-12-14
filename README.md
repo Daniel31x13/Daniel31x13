@@ -8,4 +8,4 @@ I'm intrested in:
 
 I'm currently expertising full stack development 🚀
 
-You can reach me by Telegram: [@Daniel31x13](https://t.me/Daniel31X13)
+You can reach me via Telegram: [@Daniel31x13](https://t.me/Daniel31X13), or Discord: Daniel31X13#3056
