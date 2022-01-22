@@ -8,4 +8,4 @@ Some of the things that I'm really intrested are:
 
 Currently focusing on full stack development 🚀
 
-Aside from my Email: Daniel31X13@gmail.com, you can also reach me via Telegram: [@Daniel31x13](https://t.me/Daniel31X13)
+Aside from my Email: Daniel31X13@gmail.com and [Twitter](https://twitter.com/Daniel31X13), you can also reach me via [Telegram](https://t.me/Daniel31X13).
