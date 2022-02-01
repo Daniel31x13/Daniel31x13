@@ -1,4 +1,4 @@
-# Hello There 👋
+### Hello There 👋
 I'm @Daniel31X13,
  
 Some of my interest's are:
@@ -6,7 +6,7 @@ Some of my interest's are:
 - Tech stuffs 💻📡📱🖥 
 - Working out 🦾
 
-Ways to reach me:
+#### Ways to reach me:
 
 Email: Daniel31X13@gmail.com
 
