@@ -17,3 +17,5 @@ Twitter: [@Daniel31X13](https://twitter.com/Daniel31X13)
 #### Donation:
 
 If at anypoint you are intrested in either my projects or anything else you can donate via [Paypal](https://www.paypal.me/Daniel31X13?locale.x=en_CA), Thanks!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel31x13&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></p>
