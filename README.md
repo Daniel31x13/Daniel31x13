@@ -1,16 +1,18 @@
 ### Hello There 👋
 I'm @Daniel31X13,
- 
+
 Some of my interest's are:
+- Working out 🦾
 - Programming 👨‍💻 
 - Tech stuffs 💻📡📱🖥 
-- Working out 🦾
 
 #### Ways to reach me:
 
 Email: Daniel31X13@gmail.com
 
 Twitter: [@Daniel31X13](https://twitter.com/Daniel31X13)
+
+#### Also check out my portfolio: [Daniel31x13.github.io](https://daniel31x13.github.io/)
 
 #### Donation:
 
