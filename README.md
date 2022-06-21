@@ -16,6 +16,6 @@ Twitter: [@Daniel31X13](https://twitter.com/Daniel31X13)
 
 #### Donation:
 
-If at anypoint you are intrested in either my projects or anything else you can donate via [Paypal](PayPal.Me/Daniel31X), Thanks!
+If at anypoint you are intrested in either my projects or anything else you can sponsor me via [PayPal](https://www.paypal.com/paypalme/Daniel31X), Thanks! <3
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel31x13&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></p>
